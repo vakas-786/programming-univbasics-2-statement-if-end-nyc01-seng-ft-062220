@@ -1,3 +1,7 @@
 # Write your solution here
-run_code_inside=true
-puts "Code before if...end"
+if true
+  puts "Even!"
+else
+  puts "odd!"
+end
+current_time = Time.now
